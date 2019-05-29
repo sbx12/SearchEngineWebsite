@@ -1,7 +1,7 @@
 $(document).ready(function(){
   $("#GoogleSearchBTN").click(function(){
     var search = $('#GoogleSearch').val();
-    var url = "https://www.googleapis.com/customsearch/v1?key=AIzaSyBZ3ZQw1v6i9-FIDRWr8O0ZsNW6qMyaKqg&cx=002511100289089371748:vvw4vtcx80k&q=" + search;
+    var url = "https://www.googleapis.com/customsearch/v1?key=MYKEY&cx=:Ck&q=" + search;
     $.ajax({url: url, success: function(response){
       for (var i = 0; i < response.items.length; i++) {
         var item = response.items[i];
