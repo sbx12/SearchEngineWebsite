@@ -19,7 +19,7 @@ There is also a section that uses the Google Custom Search API to let users sear
 - Google Custom Search API
 
 ### Google Search API and downloading in JSON example
-<img src='WebSearchDemogoogle.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+<img src='WebSearchDemogoogle.gif' title='Video Walkthrough' width='500' alt='Video Walkthrough' />
 
 ### Custom Web Search Engine Demo 
-<img src='WebSearchDemoSearch.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+<img src='WebSearchDemoSearch.gif' title='Video Walkthrough' width='500' alt='Video Walkthrough' />
