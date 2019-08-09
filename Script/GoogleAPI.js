@@ -1,7 +1,7 @@
 $(document).ready(function(){
   $("#GoogleSearchBTN").click(function(){
     var search = $('#GoogleSearch').val();
-    var url = "https://www.googleapis.com/customsearch/v1?key=MYKEY&cx=:Ck&q=" + search;
+    var url = "https://www.googleapis.com/customsearch/KEYSh;
     $.ajax({url: url, success: function(response){
       for (var i = 0; i < response.items.length; i++) {
         var item = response.items[i];
